@@ -1,0 +1,298 @@
+{
+  "users": [
+    {
+      "name": "Admin Mentor",
+      "email": "admin@internflow.ai",
+      "password": "$2a$10$zx89gqfkPW5k3qlDYYaOe.B6Yfiup3WXzPSDMAtpgd2qNEzB.mMle",
+      "role": "admin",
+      "team": "Admin Team",
+      "joinDate": "2026-06-01",
+      "avatarUrl": "/avatars/admin.png",
+      "streak": 24,
+      "tasksCompleted": 32,
+      "tasks": []
+    },
+    {
+      "name": "Intern User",
+      "email": "intern@internflow.ai",
+      "password": "$2a$10$/sq.EtCklWTbnXMJXSXkF.KZqAjxrslRAymNiLQ0xWrzjS4BullZu",
+      "role": "intern",
+      "team": "Team Horizon (AI/ML)",
+      "joinDate": "2026-06-01",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 8,
+      "tasksCompleted": 12,
+      "tasks": []
+    },
+    {
+      "name": "diya",
+      "email": "aa@gmail.com",
+      "password": "$2a$10$imnd.QHQiWF0XG8RbyTUAe4KFT645EtZb0enf3iRXN8.k/UcHqyJa",
+      "role": "intern",
+      "team": "team ace",
+      "joinDate": "2026-06-24",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "divyaaa",
+      "email": "a1a@gmail.com",
+      "password": "$2a$10$wxIkyvOJeHxeq5L8WNN0We5Z9lUG4mAZiyVljaxTbe80AWyxnpPSK",
+      "role": "intern",
+      "team": "team ace",
+      "joinDate": "2026-06-24",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "prabha",
+      "email": "prabha123@gmail.com",
+      "password": "$2a$10$OKnvhX6DNvcZMKxNju7djOKveKN8KJ9aQyjth6RvOPdCZ1zp152dC",
+      "role": "intern",
+      "team": "web",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "Manaswi",
+      "email": "ginnemanaswireddy@gmail.com",
+      "password": "$2a$10$Vj8pwkN5PmB.UKQ/mFxJCOYPz5bsViaFe5QXvYKawy9198zmmIIJG",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "Jiggs",
+      "email": "xyz@gmail.com",
+      "password": "$2a$10$ba0R98r5k2Jkd6IfXkI4iec3iPWDlHKXvFFkAupGnHg8Mksh9moA6",
+      "role": "intern",
+      "team": "Team xyz",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "text": "Squash feature commits and push PR to dev",
+          "done": true
+        },
+        {
+          "id": 2,
+          "text": "Read the GitHub branching FAQ guidelines",
+          "done": true
+        },
+        {
+          "id": 3,
+          "text": "Submit weekly report on Deliverables form",
+          "done": true
+        },
+        {
+          "id": 4,
+          "text": "Schedule a brief coordinate call with Aarav",
+          "done": false
+        },
+        {
+          "id": 5,
+          "text": "Configure Docker environment parameters",
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "Bramhesh Patil",
+      "email": "bramhesh8530@gmail.com",
+      "password": "$2a$10$67hs8aMuBH3twojZrrazo.C4xbmkwOz36jNo7f4LyoDFDbC/EkbgK",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "Manaswi",
+      "email": "manaswiginne0@gmail.com",
+      "password": "$2a$10$gm18HiK4YAGS3XymouOiBemjsz7nDS1VpTcQju68Sbw6GToGzTzK6",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "text": "Squash feature commits and push PR to dev",
+          "done": true
+        },
+        {
+          "id": 2,
+          "text": "Read the GitHub branching FAQ guidelines",
+          "done": true
+        },
+        {
+          "id": 3,
+          "text": "Submit weekly report on Deliverables form",
+          "done": false
+        },
+        {
+          "id": 4,
+          "text": "Schedule a brief coordinate call with Aarav",
+          "done": false
+        },
+        {
+          "id": 5,
+          "text": "Configure Docker environment parameters",
+          "done": false
+        },
+        {
+          "id": 6,
+          "text": "work on the database",
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "jyoti",
+      "email": "aireyjyoti@123",
+      "password": "$2a$10$eDGcNHO7CFrxCNNmcp5/zOkuey4BOmlkEfwP5IDv4y5vVwFtoRig6",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "text": "Squash feature commits and push PR to dev",
+          "done": true
+        },
+        {
+          "id": 2,
+          "text": "Read the GitHub branching FAQ guidelines",
+          "done": true
+        },
+        {
+          "id": 3,
+          "text": "Submit weekly report on Deliverables form",
+          "done": false
+        },
+        {
+          "id": 4,
+          "text": "Schedule a brief coordinate call with Aarav",
+          "done": false
+        },
+        {
+          "id": 5,
+          "text": "Configure Docker environment parameters",
+          "done": false
+        },
+        {
+          "id": 6,
+          "text": "review the repo",
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "Rajat Sharan",
+      "email": "rajatkrish1702@gmail.com",
+      "password": "$2a$10$PZSTVMgJXF7cMBuzPWmb3eYZgMctqC1Cnjo7rJRjyS19eYy0PtjsC",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 2,
+      "tasks": [
+        {
+          "id": 1,
+          "text": "Squash feature commits and push PR to dev",
+          "done": true
+        },
+        {
+          "id": 2,
+          "text": "Read the GitHub branching FAQ guidelines",
+          "done": true
+        },
+        {
+          "id": 3,
+          "text": "Submit weekly report on Deliverables form",
+          "done": false
+        },
+        {
+          "id": 4,
+          "text": "Schedule a brief coordinate call with Aarav",
+          "done": false
+        },
+        {
+          "id": 5,
+          "text": "Configure Docker environment parameters",
+          "done": false
+        }
+      ]
+    },
+    {
+      "name": "ptr",
+      "email": "ptr123@gmail.com",
+      "password": "$2a$10$4wwHhzQUEv6lxlg2m5hJLuLdnCDIsa9ZI7G41V7eMj86uw5WFOHPW",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "Rajat",
+      "email": "rajat123@gmail.com",
+      "password": "$2a$10$hvkl.e0fcnpsaCz2suAs8ecN2cPdx0imali2pdqFyaU0cBg1vGil.",
+      "role": "admin",
+      "team": null,
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/admin.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "Manaswi",
+      "email": "ginnemanaswireddy331@gmail.com",
+      "password": "$2a$10$NFe4PBBo4PDHOSJrObD8BuEf7vZl7EmwzWX0MpXoReM.dJyYBOvyC",
+      "role": "admin",
+      "team": null,
+      "joinDate": "2026-06-25",
+      "avatarUrl": "/avatars/admin.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    },
+    {
+      "name": "dj",
+      "email": "dj@gmail.com",
+      "password": "$2a$10$Xd/UVf0BEo1OzCqIa/j9VOjoIWnXi3zPjDNyOcSpimTRFvq9PpTIm",
+      "role": "intern",
+      "team": "Unassigned Team",
+      "joinDate": "2026-06-30",
+      "avatarUrl": "/avatars/intern.png",
+      "streak": 0,
+      "tasksCompleted": 0,
+      "tasks": []
+    }
+  ]
+}
