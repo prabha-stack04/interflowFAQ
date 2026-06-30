@@ -4,16 +4,17 @@ import React from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { useApp } from '@/context/AppContext';
-import { 
-  LayoutDashboard, 
-  Megaphone, 
-  HelpCircle, 
-  BarChart3, 
-  Users, 
-  FolderOpen, 
-  Settings, 
-  Bot, 
-  User, 
+import {
+  LayoutDashboard,
+  Megaphone,
+  HelpCircle,
+  MessageSquare,
+  BarChart3,
+  Users,
+  FolderOpen,
+  Settings,
+  Bot,
+  User,
   LogOut,
   ChevronRight,
   Menu,
@@ -55,6 +56,8 @@ export default function Sidebar({ isOpen, setIsOpen }: SidebarProps) {
     { name: 'Teams', path: '/dashboard/intern/teams', icon: Users },
     { name: 'Resources', path: '/dashboard/intern/resources', icon: FolderOpen },
     { name: 'Profile', path: '/dashboard/intern/profile', icon: User },
+    { name: 'Help', path: '/dashboard/intern/help', icon: HelpCircle },
+    { name: 'Feedback', path: '/dashboard/intern/feedback', icon: MessageSquare },
   ];
 
   const navItems = role === 'admin' ? adminNavItems : internNavItems;
