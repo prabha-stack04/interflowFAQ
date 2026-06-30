@@ -19,7 +19,6 @@
     "react-dom": "19.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/oxide-linux-x64-gnu": "^4.3.1",
     "@tailwindcss/postcss": "^4",
     "@types/bcryptjs": "^2.4.6",
     "@types/jsonwebtoken": "^9.0.10",
